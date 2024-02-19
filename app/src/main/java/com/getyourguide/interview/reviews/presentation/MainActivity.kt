@@ -1,8 +1,9 @@
-package com.getyourguide.interview
+package com.getyourguide.interview.reviews.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.commit
+import com.getyourguide.interview.R
 
 class MainActivity : AppCompatActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {

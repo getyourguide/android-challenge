@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">InterviewTest</string>
     <string name="reviewed_by">reviewed by</string>
+    <string name="msg_connection_error">Please check you internet connection</string>
+    <string name="msg_unknown_error">something went wrong please try again</string>
 </resources>
