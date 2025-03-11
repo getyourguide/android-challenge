@@ -11,6 +11,11 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
+
+plugins {
+    id 'com.getyourguide.libs.gradle.develocity.configuration' version '4.14.2'
+}
+
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
