@@ -35,5 +35,3 @@ jobs:
           dependency-graph-include-configurations: '(implementation|api|compileClasspath|runtimeClasspath)'
         env:
           CODEARTIFACT_AUTH_TOKEN: ${{ secrets.CODEARTIFACT_AUTH_TOKEN }}
-          SCHEMAPI_LOGIN: ${{ secrets.SCHEMAPI_LOGIN }}
-          SCHEMAPI_PASSWORD: ${{ secrets.SCHEMAPI_PASSWORD }}
